@@ -57,7 +57,6 @@ I'm an AI engineer who enjoys turning **messy real-world problems** into **struc
 
 ---
 
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,fastapi,mongodb,git,linux" />
 </p>
