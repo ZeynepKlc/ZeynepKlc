@@ -77,13 +77,7 @@ Computer Vision | Deep Learning | OCR | LLMs | RAG | GANs
 
 Jetson Orin | Multi-threading | MQTT | Real-time pipelines
 
-
-
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200"/>
-</p>
 
 
 ## 📂 Featured Projects
