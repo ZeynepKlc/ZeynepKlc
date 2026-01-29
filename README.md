@@ -75,30 +75,6 @@ Jetson Orin | Multi-threading | MQTT | Real-time pipelines
 ---
 
 
-## 📂 Featured Projects
-
-### 🔹 RAG Project
-📎 https://github.com/ZeynepKlc/Rag_Project  
-- End-to-end RAG pipeline  
-- Document ingestion → embedding → retrieval → generation  
-- Designed for scalability and clarity
-
-### 🔹 Mini Chatbot
-📎 https://github.com/ZeynepKlc/mini_chatbot  
-- Lightweight LLM chatbot  
-- Session & history management  
-- Model selection & token limits
-
----
-
-## 🎯 Philosophy
-
-- ❌ Not a fan of over-engineering  
-- ✅ Fan of **understandable**, **maintainable**, **documented** code  
-- 📌 If I don’t understand it deeply, I don’t trust it
-
----
-
 ## 🌱 Learning Never Stops
 
 Currently diving deeper into:
