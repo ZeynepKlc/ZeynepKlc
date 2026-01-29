@@ -38,13 +38,6 @@ I'm an AI engineer who enjoys turning **messy real-world problems** into **struc
 <img align="right" width="220"
      src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,fastapi,mongodb,git,linux" />
-</p>
-
 ---
 
 ## 🧠 Current Focus
