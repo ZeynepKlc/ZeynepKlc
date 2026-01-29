@@ -41,6 +41,12 @@ I'm an AI engineer who enjoys turning **messy real-world problems** into **struc
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,fastapi,mongodb,git,linux" />
+</p>
+
+---
+
 ## 🧠 Current Focus
 
 - 🧬 **Medical AI** (Just Hobby)
@@ -54,12 +60,6 @@ I'm an AI engineer who enjoys turning **messy real-world problems** into **struc
 - 🎥 **Computer Vision**
   - Object detection & tracking  
   - Camera pipelines (Jetson, OpenCV, real-time systems)
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,fastapi,mongodb,git,linux" />
-</p>
 
 ---
 
