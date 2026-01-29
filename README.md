@@ -11,7 +11,7 @@
     color=36BCF7&
     center=true&
     vCenter=true&
-    width=500&
+    width=200&
     lines=AI+Engineer;Computer+Vision+%26+LLMs;Building+Real-World+AI+Systems" />
 </p>
 
