@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUwN3M4MnAxOWVyb3VxcDM4NzlqaTl5YTlsbWRicGtqZmlpdHdhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=22&
+    duration=3000&
+    pause=800&
+    color=36BCF7&
+    center=true&
+    vCenter=true&
+    width=500&
+    lines=AI+Engineer;Computer+Vision+%26+LLMs;Building+Real-World+AI+Systems" />
+</p>
+
 # 👋 Hi, I'm Zey
 
 🚀 AI Engineer | Computer Vision & Deep Learning Enthusiast  
@@ -15,7 +32,16 @@ I'm an AI engineer who enjoys turning **messy real-world problems** into **struc
 - ⚙️ Prefer **clean architecture** over quick hacks
 - 📈 Always learning, always iterating
 
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+</p>
+
+
 > “If it works in production, it’s beautiful.”
+
+<img align="right" width="220"
+     src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+
 
 ---
 
@@ -35,6 +61,11 @@ I'm an AI engineer who enjoys turning **messy real-world problems** into **struc
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,fastapi,mongodb,git,linux" />
+</p>
+
+
 ## 🛠️ Tech Stack
 
 **Languages & Tools**
@@ -45,6 +76,11 @@ Python | OpenCV | PyTorch | FastAPI | PyQt | MongoDB | Git
 
 Computer Vision | Deep Learning | OCR | LLMs | RAG | GANs
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300"/>
+</p>
+
+
 **Systems**
 
 Jetson Orin | Multi-threading | MQTT | Real-time pipelines
@@ -52,6 +88,11 @@ Jetson Orin | Multi-threading | MQTT | Real-time pipelines
 
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200"/>
+</p>
+
 
 ## 📂 Featured Projects
 
