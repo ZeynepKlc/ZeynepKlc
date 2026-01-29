@@ -1,4 +1,260 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeynepKlc&show_icons=true&theme=merko)
+# 👋 Hi, I'm Zey
+
+🚀 AI Engineer | Computer Vision & Deep Learning Enthusiast  
+🧠 Focused on building **real-world AI systems**, not just demos  
+🛠️ Python · FastAPI · PyQt · Computer Vision · LLMs  
+
+---
+
+## 🧩 About Me
+
+I'm an AI engineer who enjoys turning **messy real-world problems** into **structured, scalable AI solutions**.
+
+- 🔍 Strong interest in **Deep Learning** **Computer Vision**, **LLMs**, and **RAG systems**
+- 🧪 Love experimenting with **model pipelines**, **automation**, and **system design**
+- ⚙️ Prefer **clean architecture** over quick hacks
+- 📈 Always learning, always iterating
+
+> “If it works in production, it’s beautiful.”
+
+---
+
+## 🧠 Current Focus
+
+- 🧬 **Medical AI** (Just Hobby)
+  - Segmentation & metastasis analysis (pancreatic cancer research)
+
+- 🤖 **LLM Systems**
+  - RAG pipelines  
+  - Prompt engineering  
+  - Token & context management  
+
+- 🎥 **Computer Vision**
+  - Object detection & tracking  
+  - Camera pipelines (Jetson, OpenCV, real-time systems)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools**
+
+Python | OpenCV | PyTorch | FastAPI | PyQt | MongoDB | Git
+
+**AI / ML**
+
+Computer Vision | Deep Learning | OCR | LLMs | RAG | GANs
+
+**Systems**
+
+Jetson Orin | Multi-threading | MQTT | Real-time pipelines
+
+
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 RAG Project
+📎 https://github.com/ZeynepKlc/Rag_Project  
+- End-to-end RAG pipeline  
+- Document ingestion → embedding → retrieval → generation  
+- Designed for scalability and clarity
+
+### 🔹 Mini Chatbot
+📎 https://github.com/ZeynepKlc/mini_chatbot  
+- Lightweight LLM chatbot  
+- Session & history management  
+- Model selection & token limits
+
+---
+
+## 🎯 Philosophy
+
+- ❌ Not a fan of over-engineering  
+- ✅ Fan of **understandable**, **maintainable**, **documented** code  
+- 📌 If I don’t understand it deeply, I don’t trust it
+
+---
+
+## 🌱 Learning Never Stops
+
+Currently diving deeper into:
+- Attention mechanisms  
+- Tokenization & embeddings  
+- Advanced RAG architectures  
+
+---
+
+## 📫 Contact
+
+- 💻 GitHub: **@ZeynepKlc**
+- 🌍 Always open to collaboration & research ideas
+
+---
+
+⭐ If you find my projects useful, feel free to star them!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 - 🌱 I’m currently learning machine learning/deep learning
