@@ -27,7 +27,7 @@
 
 I'm an AI engineer who enjoys turning **messy real-world problems** into **structured, scalable AI solutions**.
 
-- 🔍 Strong interest in **Deep Learning** **Computer Vision**, **LLMs**, and **RAG systems**
+- 🔍 Strong interest in **Deep Learning**, **Computer Vision**, **LLMs**, and **RAG systems**
 - 🧪 Love experimenting with **model pipelines**, **automation**, and **system design**
 - ⚙️ Prefer **clean architecture** over quick hacks
 - 📈 Always learning, always iterating
