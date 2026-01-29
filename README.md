@@ -33,7 +33,7 @@ I'm an AI engineer who enjoys turning **messy real-world problems** into **struc
 - 📈 Always learning, always iterating
 
 > “If it works in production, it’s beautiful.”
- - 💬 Ask me about data
+ - 💬 I like data. Ask me about data
 ---
 
 <p align="center">
