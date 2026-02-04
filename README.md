@@ -74,7 +74,6 @@ Jetson Orin | Multi-threading | MQTT | Real-time pipelines
 
 ---
 
-
 ## 🌱 Learning Never Stops
 
 Currently diving deeper into:
@@ -90,8 +89,3 @@ Currently diving deeper into:
 - 🌍 Always open to collaboration & research ideas
 
 ---
-
-<img align="right" width="220"
-     src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
-
-
