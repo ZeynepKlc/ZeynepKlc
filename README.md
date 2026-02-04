@@ -94,5 +94,4 @@ Currently diving deeper into:
 <img align="right" width="220"
      src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
-⭐ If you find my projects useful, feel free to star them!
 
