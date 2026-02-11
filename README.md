@@ -19,7 +19,7 @@
 
 🚀 AI Engineer | Computer Vision & Deep Learning Enthusiast  
 🧠 Focused on building **real-world AI systems**, not just demos  
-🛠️ Python · FastAPI · PyQt · Computer Vision · LLMs  
+🛠️ Python · FastAPI · Computer Vision · LLMs  
 
 ---
 
